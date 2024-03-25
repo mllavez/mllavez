@@ -7,12 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mllavez" height="30" width="40" /></a>
-<a href="https://dev.to/malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mllavez" height="30" width="40" /></a>
+<a href="https://codepen.io/mllavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mllavez" height="30" width="40" /></a>
+<a href="https://dev.to/mllavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mllavez" height="30" width="40" /></a>
 <a href="https://twitter.com/malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mllavez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mllavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mllavez" height="30" width="40" /></a>
-<a href="https://medium.com/@malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mllavez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mllavez" height="30" width="40" /></a>
+<a href="https://medium.com/@mllavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mllavez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mllavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mllavez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/malexanderlvz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mllavez" height="30" width="40" /></a>
 </p>
 
